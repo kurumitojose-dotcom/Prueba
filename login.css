@@ -1,0 +1,8 @@
+html,
+body {
+    background-image: url('Fondo.avif');
+    background-repeat: initial;
+    background-position-y: -0%;
+    height: 80% !important;
+    background-size: 200% !important
+}

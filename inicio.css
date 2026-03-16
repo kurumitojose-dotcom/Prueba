@@ -1,0 +1,39 @@
+
+html,
+body {
+    background-image: url('Fondo.avif');
+    background-repeat: initial;
+    background-position-y: -0%;
+    height: 100% !important;
+    background-size: 200% !important;
+}
+
+#titulo {
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.733);
+    width: 80%;
+    border-radius: 50px;
+    border-color: hwb(208 94% 0%);
+    border: 10px solid;
+}
+
+#cards {
+    background-color: rgba(255, 255, 255, 0) !important;
+    border: 0px solid !important;
+    display: flex;
+    width: 50%;
+}
+
+div {
+    background-color: rgba(0, 255, 255, 0.452);
+    width: 200px;
+    border-radius: 20px;
+    border: 2px solid;
+    gap: 20px;
+}
+
+h2 {
+    font-size: 20px;
+}
